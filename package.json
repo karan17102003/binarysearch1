@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "binarysearch",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karan17102003/binarysearch1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "karan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karan17102003/binarysearch1/issues"
+  },
+  "homepage": "https://github.com/karan17102003/binarysearch1#readme"
+}
